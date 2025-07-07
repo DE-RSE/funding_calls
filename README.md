@@ -1,4 +1,4 @@
-# Overview of funding calls
+# Overview of RSE funding calls
 
 This is an [issue-based](https://github.com/DE-RSE/funding_calls/issues) overview of funding options for RSEs and their software.
 
