@@ -1,2 +1,2 @@
-# funding_calls
-Issue-based overview of funding options for RSEs and their software
+# Overview of funding calls
+WORK IN PROGRESS - [Issue-based](https://github.com/DE-RSE/funding_calls/issues) overview of funding options for RSEs and their software
