@@ -17,3 +17,5 @@ We appreciate any hint, be it just a link or lots of details!
 In any case, please use English as working language for this repository/for the issues.
 
 Any help is appreciated! In case of questions, get in touch by opening an issue with the label "question".
+
+Contact: [de-RSE](https://de-rse.org/de/working_groups.html)/[GI](https://fg-rse.gi.de/fachgruppe/arbeitskreise#c91002) activity group "RSE Advocacy"
