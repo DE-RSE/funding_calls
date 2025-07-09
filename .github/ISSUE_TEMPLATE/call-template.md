@@ -7,11 +7,12 @@ assignees: ''
 
 ---
 
-# Call ID
+# Call title goes here
+
+_REMOVE ME: please put the call title also as name of the issue_
 
 _Core data:_
 - **Link to call:** _please provide a link to the call here (or any other means to learn more about it)_
-- **Call title:** _please provide the title of the funding call_
 - **Funding Agency:** _please provide the name of the funding agency_
 - **Call closes on:** _please add a date (ideally with time) when the call closes_
 - **RSE relevance:** _please describe very briefly (!) why this call matters for RSEs and/or research software_
