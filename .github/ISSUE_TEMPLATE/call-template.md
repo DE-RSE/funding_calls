@@ -2,14 +2,12 @@
 name: Call template
 about: Used to add new calls
 title: ''
-labels: ''
-assignees: ''
 
 ---
 
 # Call title goes here
 
-_REMOVE ME: please put the call title also as name of the issue_
+[//]: # (please put the call title also as name of the issue)
 
 _Core data:_
 - **Link to call:** _please provide a link to the call here (or any other means to learn more about it)_
@@ -23,3 +21,5 @@ _Additional information, as relevant and available_:
 - **Single-stage or multi-stage application process:**
 - **Funding of consortia or smaller units:** _i.e. if multiple partners are required for the proposal, or also single research groups can apply_
 - **Any other important conditions:**
+
+[//]: # (Note: labels will be assigned by the maintainers of this repository. No need to worry here!)
