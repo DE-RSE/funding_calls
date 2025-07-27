@@ -22,4 +22,4 @@ _Additional information, as relevant and available_:
 - **Funding of consortia or smaller units:** _i.e. if multiple partners are required for the proposal, or also single research groups can apply_
 - **Any other important conditions:**
 
-[//]: # (Note: labels will be assigned by the maintainers of this repository. No need to worry here!)
+[//]: # (Note: Labels will be assigned by the maintainers of this repository. No need to worry here!)
