@@ -7,7 +7,7 @@ title: ''
 
 # Call title goes here
 
-[//]: # (please put the call title also as name of the issue)
+[//]: # (Note: Please put the call title also as name of the issue)
 
 _Core data:_
 - **Link to call:** _please provide a link to the call here (or any other means to learn more about it)_
