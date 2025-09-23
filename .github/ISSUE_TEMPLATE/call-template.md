@@ -17,7 +17,7 @@ _Core data:_
 
 _Additional information, as relevant and available_:
 - **Budget available per proposal:**
-- **Funding rate:** _i.e. which percentage is funded by the funding agency, how much matching funding is needed_
+- **Funding rate:** _i.e. which percentage of a proposal is funded by the funding agency, how much matching funding is needed_
 - **Single-stage or multi-stage application process:**
 - **Funding of consortia or smaller units:** _i.e. if multiple partners are required for the proposal, or also single research groups can apply_
 - **Any other important conditions:**
